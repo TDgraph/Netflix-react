@@ -1,1 +1,1 @@
-Thin is a Netflix-clone website..
+This is a Netflix-clone website..
