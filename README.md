@@ -1,1 +1,1 @@
-"# Netflix-react" 
+Thin is a Netflix-clone website..
